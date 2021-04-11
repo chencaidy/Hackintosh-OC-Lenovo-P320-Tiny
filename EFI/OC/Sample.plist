@@ -16,6 +16,14 @@
 			</dict>
 			<dict>
 				<key>Comment</key>
+				<string>Fixing Internal NVMe SSD</string>
+				<key>Enabled</key>
+				<true/>
+				<key>Path</key>
+				<string>SSDT-NVME.aml</string>
+			</dict>
+			<dict>
+				<key>Comment</key>
 				<string>Fixing Power Management</string>
 				<key>Enabled</key>
 				<true/>
